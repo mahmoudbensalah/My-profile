@@ -1,0 +1,36 @@
+}
+.container{
+	width: 700px;
+	margin: 40px auto;
+}
+
+.card-white{
+	background: beige;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+}
+
+.img-circle{
+	border-radius: 50%;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px; 
+}
+.list-inline > li {
+  display: inline; 
+  padding: 0px 20px; 
+}
+
+.list-inline i{
+	font-size: 50px;
+	color: rgb(100, 100, 100);
+}
+
+.list-inline i:hover{
+	color: black;
+}
